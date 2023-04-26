@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mjollror/C4_s21_math-1",
+      "program": "/Users/mjollror/C4_s21_math-1/build/Debug/outDebug"
+    }
+  ]
+}
